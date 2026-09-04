@@ -1,0 +1,8 @@
+llama.cpp/
+lilstoryteller/
+lilstory-model/
+*.gguf
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
