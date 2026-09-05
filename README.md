@@ -18,3 +18,7 @@ then, download and run the model!
 ```
 ollama run navthings/lilstory
 ```
+
+this model was used in this research paper 
+
+https://zenodo.org/records/22340667
